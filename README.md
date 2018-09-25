@@ -8,8 +8,8 @@
 [week_1](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_1/week_1_first_meet.ipynb)
 
 ## week_2
-+ 爬取氣象資料 ： [climate1_getStationInfo](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_2/climate1_getStationInfo.ipynb) 、[climate2_getClimate](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_2/climate2_getClimate.ipynb)
++ 爬取氣象資料  [climate1_getStationInfo](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_2/climate1_getStationInfo.ipynb) 、[climate2_getClimate](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_2/climate2_getClimate.ipynb)
 + 結合91APP資料 [Combine91AppData](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_2/Combine91AppData.ipynb)
-
 + HW(未完成)：欲結合美元歷史匯率和網購消費力資料
+
 [台銀歷史匯率查詢](https://rate.bot.com.tw/xrt/history?Lang=zh-TW)
