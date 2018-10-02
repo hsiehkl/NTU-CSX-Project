@@ -1,4 +1,10 @@
 # NTU-CSX-Project
+台大國企所碩一 謝昕庭
+
+### Reference
+*  Course[Syllabus](https://csx.aca.ntu.edu.tw/modules/index.php?csn=e76981&default_fun=syllabus&current_lang=chinese)
+*  Course[GitBook](https://pecu.gitbooks.io/python_/content/)
+*  Course[GitHub](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
 
 ## week_1
 +  安裝執行  [Anaconda 、Jupter Notebook](https://www.google.com/url?q=https://www.anaconda.com/download/&sa=D&ust=1536765986428000&usg=AFQjCNHPCgwCeTJAhwvIB0rcx7Z3xSvwwQ)
@@ -13,3 +19,8 @@
 + HW(未完成)：欲結合美元歷史匯率和網購消費力資料
 
 [台銀歷史匯率查詢](https://rate.bot.com.tw/xrt/history?Lang=zh-TW)
+
+## week_3
+*  Visualized 91APP data
++ [inClass_practice](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_3/week3_inClass_practice.ipynb)
++ [week3_HW](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_3/week3_HW.ipynb)
