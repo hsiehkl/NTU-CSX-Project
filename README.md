@@ -2,9 +2,9 @@
 台大國企所碩一 謝昕庭
 
 ### Reference
-*  Course[Syllabus](https://csx.aca.ntu.edu.tw/modules/index.php?csn=e76981&default_fun=syllabus&current_lang=chinese)
-*  Course[GitBook](https://pecu.gitbooks.io/python_/content/)
-*  Course[GitHub](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
+*  Course [Syllabus](https://csx.aca.ntu.edu.tw/modules/index.php?csn=e76981&default_fun=syllabus&current_lang=chinese)
+*  Course [GitBook](https://pecu.gitbooks.io/python_/content/)
+*  Course [GitHub](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
 
 ## week_1
 +  安裝執行  [Anaconda 、Jupter Notebook](https://www.google.com/url?q=https://www.anaconda.com/download/&sa=D&ust=1536765986428000&usg=AFQjCNHPCgwCeTJAhwvIB0rcx7Z3xSvwwQ)
@@ -22,5 +22,5 @@
 
 ## week_3
 *  Visualized 91APP data
-+ [inClass_practice](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_3/week3_inClass_practice.ipynb)
-+ [week3_HW](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_3/week3_HW.ipynb)
+    * [inClass_practice](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_3/week3_inClass_practice.ipynb)
+    + [week3_HW](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_3/week3_HW.ipynb)
