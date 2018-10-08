@@ -24,3 +24,9 @@
 *  Visualized 91APP data
     * [inClass_practice](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_3/week3_inClass_practice.ipynb)
     + [week3_HW](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_3/week3_HW.ipynb)
+    
+## week_4
++  分析[東元電機財報](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_4/Reports/1504%202017%20東元.pdf)
+*  建立文字詞頻統計與文字雲分析
+    *  [inClass_practice](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_4/week4_inClass_practice.ipynb)
+    * [week4_HW](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_4/TECO_FinancialStatement_TextMining.ipynb)
