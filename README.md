@@ -30,3 +30,8 @@
 *  建立文字詞頻統計與文字雲分析
     *  [inClass_practice](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_4/week4_inClass_practice.ipynb)
     * [week4_HW](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_4/TECO_FinancialStatement_TextMining.ipynb)
+    
+## week_12
++  BBC news: [The island that never stops apologising](http://www.bbc.com/travel/story/20181031-the-island-that-never-stops-apologising)
+*  NER with NLTK
+    *  [inClass_practice](https://github.com/hsiehkl/NTU-CSX-Project/blob/master/week_12/NER.ipynb)
