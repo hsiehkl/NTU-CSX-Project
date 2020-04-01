@@ -1,5 +1,4 @@
 # NTU-CSX-Project
-台大國企所碩一 謝昕庭
 
 ### Reference
 *  Course [Syllabus](https://csx.aca.ntu.edu.tw/modules/index.php?csn=e76981&default_fun=syllabus&current_lang=chinese)
